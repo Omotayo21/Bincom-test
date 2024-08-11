@@ -1,4 +1,4 @@
-// src/components/Header.js
+
 import React from "react";
 import { motion } from "framer-motion";
 import pic5 from "../assets/rahman.jpeg"

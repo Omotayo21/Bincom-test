@@ -1,7 +1,7 @@
-// src/components/About.js
+
 import React from "react";
 import { motion } from "framer-motion";
-import CVViewer from "./CvViewer";
+
 
 const About = () => {
   return (

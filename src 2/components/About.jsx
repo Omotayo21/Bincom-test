@@ -20,16 +20,7 @@ const About = () => {
           help bring your ideas into reality. I look forward to hearing from you
         </p>
       </motion.div>
-      <div className="mb-8">
-        <h2 className="text-xl font-bold mb-2">My CV :</h2>
-     <a
-          href="../assets/Abdulrahman-CV.pdf"
-          download="Abdulrahman-CV.pdf"
-          className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600"
-        >
-          Download CV
-        </a>
-      </div>
+      
     </section>
   );
 };

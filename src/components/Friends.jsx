@@ -9,18 +9,18 @@ import Image5 from "../assets/gift.jpeg";
 const friends = [
  
   {
-    name: "Friend 2",
+    name: "Friend 1",
     img: Image2,
     quote: "A problem solver who never gives up.",
   },
-  { name: "Friend 3", img: Image3, quote: "A team player and a true leader." },
+  { name: "Friend 2", img: Image3, quote: "A team player and a true leader." },
   {
-    name: "Friend 4",
+    name: "Friend 3",
     img: Image4,
     quote: "Innovative and always thinking outside the box.",
   },
   {
-    name: "Friend 5",
+    name: "Friend 4",
     img: Image5,
     quote: "Dependable and trustworthy, always delivers.",
   },
